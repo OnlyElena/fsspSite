@@ -1,0 +1,5 @@
+#surefire
+#Sun Mar 13 12:30:51 IRKT 2011
+user.dir=/home/lumen/JOB/PROJECT/fsspSite
+localRepository=/home/lumen/.m2/repository
+basedir=/home/lumen/JOB/PROJECT/fsspSite

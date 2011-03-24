@@ -1,61 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.038" errors="0" skipped="0" tests="1" name="ru.fssp38.fsspSite.AppTest">
+<testsuite failures="0" time="0.015" errors="0" skipped="0" tests="1" name="ru.fssp38.fsspSite.AppTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-6-sun-1.6.0.24/jre/lib/i386"/>
-    <property name="java.vm.version" value="19.1-b02"/>
+    <property name="sun.boot.library.path" value="c:\program files\jetbrains\intellij idea 10.0\jre\jre\bin"/>
+    <property name="java.vm.version" value="17.0-b16"/>
     <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
     <property name="java.vendor.url" value="http://java.sun.com/"/>
-    <property name="path.separator" value=":"/>
-    <property name="java.vm.name" value="Java HotSpot(TM) Server VM"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
     <property name="file.encoding.pkg" value="sun.io"/>
     <property name="user.country" value="RU"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="sun.os.patch.level" value="Service Pack 3"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/home/lumen/JOB/PROJECT/fsspSite"/>
-    <property name="java.runtime.version" value="1.6.0_24-b07"/>
-    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="basedir" value="/home/lumen/JOB/PROJECT/fsspSite"/>
-    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-6-sun-1.6.0.24/jre/lib/endorsed"/>
-    <property name="os.arch" value="i386"/>
-    <property name="surefire.real.class.path" value="/home/lumen/JOB/PROJECT/fsspSite/target/surefire/surefirebooter316491929490963421.jar"/>
-    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="user.dir" value="F:\RABOTA\JAVA\myProject\fsspSite"/>
+    <property name="java.runtime.version" value="1.6.0_21-b06"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="F:\RABOTA\JAVA\myProject\fsspSite"/>
+    <property name="java.endorsed.dirs" value="c:\program files\jetbrains\intellij idea 10.0\jre\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="surefire.real.class.path" value="C:\DOCUME~1\CHYBAK~1\LOCALS~1\Temp\surefirebooter3590511444162467172.jar"/>
+    <property name="java.io.tmpdir" value="C:\DOCUME~1\CHYBAK~1\LOCALS~1\Temp\"/>
     <property name="line.separator" value="
 "/>
     <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
-    <property name="os.name" value="Linux"/>
-    <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.library.path" value="/usr/lib/jvm/java-6-sun-1.6.0.24/jre/lib/i386/server:/usr/lib/jvm/java-6-sun-1.6.0.24/jre/lib/i386:/usr/lib/jvm/java-6-sun-1.6.0.24/jre/../lib/i386:/usr/lib/jvm/java-6-openjdk/jre/lib/i386/server:/usr/lib/jvm/java-6-openjdk/jre/lib/i386:/usr/lib/jvm/java-6-openjdk/jre/../lib/i386:.::/usr/java/packages/lib/i386:/lib:/usr/lib"/>
-    <property name="surefire.test.class.path" value="/home/lumen/JOB/PROJECT/fsspSite/target/test-classes:/home/lumen/JOB/PROJECT/fsspSite/target/classes:/home/lumen/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows XP"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.library.path" value="c:\program files\jetbrains\intellij idea 10.0\jre\jre\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;c:\Program Files\Common Files\Acronis\SnapAPI\;F:\RABOTA\JAVA\J2\apache-maven-2.2.1-bin\bin;C:\Program Files\Java\jdk1.6.0_22\;F:\RABOTA\JAVA\J2\apache-ant-1.8.1\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;C:\Program Files\Pinnacle\Shared Files\;C:\Program Files\QuickTime\QTSystem\;F:\RABOTA\JAVA\J2\gwt-2.1.0\gwt-2.1.0\;C:\Program Files\Common Files\Adobe\AGL;c:\program files\jetbrains\intellij idea 10.0\jre\jre\bin"/>
+    <property name="surefire.test.class.path" value="F:\RABOTA\JAVA\myProject\fsspSite\target\test-classes;F:\RABOTA\JAVA\myProject\fsspSite\target\classes;C:\Documents and Settings\ChybakovaEL\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Documents and Settings\ChybakovaEL\.m2\repository\net\java\dev\appframework\appframework\1.03\appframework-1.03.jar;C:\Documents and Settings\ChybakovaEL\.m2\repository\org\swinglabs\swing-worker\1.1\swing-worker-1.1.jar;C:\Documents and Settings\ChybakovaEL\.m2\repository\com\google\gwt\gwt-dev\2.1.1-rc1\gwt-dev-2.1.1-rc1.jar;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="50.0"/>
-    <property name="sun.management.compiler" value="HotSpot Tiered Compilers"/>
-    <property name="os.version" value="2.6.35-27-generic"/>
-    <property name="user.home" value="/home/lumen"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="5.1"/>
+    <property name="user.home" value="C:\Documents and Settings\ChybakovaEL"/>
     <property name="user.timezone" value=""/>
-    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
-    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.6"/>
-    <property name="user.name" value="lumen"/>
-    <property name="java.class.path" value="/home/lumen/JOB/PROJECT/fsspSite/target/test-classes:/home/lumen/JOB/PROJECT/fsspSite/target/classes:/home/lumen/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="user.name" value="ChybakovaEL"/>
+    <property name="java.class.path" value="F:\RABOTA\JAVA\myProject\fsspSite\target\test-classes;F:\RABOTA\JAVA\myProject\fsspSite\target\classes;C:\Documents and Settings\ChybakovaEL\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Documents and Settings\ChybakovaEL\.m2\repository\net\java\dev\appframework\appframework\1.03\appframework-1.03.jar;C:\Documents and Settings\ChybakovaEL\.m2\repository\org\swinglabs\swing-worker\1.1\swing-worker-1.1.jar;C:\Documents and Settings\ChybakovaEL\.m2\repository\com\google\gwt\gwt-dev\2.1.1-rc1\gwt-dev-2.1.1-rc1.jar;"/>
     <property name="java.vm.specification.version" value="1.0"/>
     <property name="sun.arch.data.model" value="32"/>
-    <property name="java.home" value="/usr/lib/jvm/java-6-sun-1.6.0.24/jre"/>
+    <property name="java.home" value="c:\program files\jetbrains\intellij idea 10.0\jre\jre"/>
     <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
     <property name="user.language" value="ru"/>
-    <property name="java.vm.info" value="mixed mode"/>
-    <property name="java.version" value="1.6.0_24"/>
-    <property name="java.ext.dirs" value="/usr/lib/jvm/java-6-sun-1.6.0.24/jre/lib/ext:/usr/java/packages/lib/ext"/>
-    <property name="sun.boot.class.path" value="/usr/lib/jvm/java-6-sun-1.6.0.24/jre/lib/resources.jar:/usr/lib/jvm/java-6-sun-1.6.0.24/jre/lib/rt.jar:/usr/lib/jvm/java-6-sun-1.6.0.24/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-6-sun-1.6.0.24/jre/lib/jsse.jar:/usr/lib/jvm/java-6-sun-1.6.0.24/jre/lib/jce.jar:/usr/lib/jvm/java-6-sun-1.6.0.24/jre/lib/charsets.jar:/usr/lib/jvm/java-6-sun-1.6.0.24/jre/lib/modules/jdk.boot.jar:/usr/lib/jvm/java-6-sun-1.6.0.24/jre/classes"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="1.6.0_21"/>
+    <property name="java.ext.dirs" value="c:\program files\jetbrains\intellij idea 10.0\jre\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="c:\program files\jetbrains\intellij idea 10.0\jre\jre\lib\resources.jar;c:\program files\jetbrains\intellij idea 10.0\jre\jre\lib\rt.jar;c:\program files\jetbrains\intellij idea 10.0\jre\jre\lib\sunrsasign.jar;c:\program files\jetbrains\intellij idea 10.0\jre\jre\lib\jsse.jar;c:\program files\jetbrains\intellij idea 10.0\jre\jre\lib\jce.jar;c:\program files\jetbrains\intellij idea 10.0\jre\jre\lib\charsets.jar;c:\program files\jetbrains\intellij idea 10.0\jre\jre\classes"/>
     <property name="java.vendor" value="Sun Microsystems Inc."/>
-    <property name="localRepository" value="/home/lumen/.m2/repository"/>
-    <property name="file.separator" value="/"/>
+    <property name="localRepository" value="C:\Documents and Settings\ChybakovaEL\.m2\repository"/>
+    <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="sun.desktop" value="gnome"/>
-    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
   </properties>
-  <testcase time="0.007" classname="ru.fssp38.fsspSite.AppTest" name="testApp"/>
+  <testcase time="0.015" classname="ru.fssp38.fsspSite.AppTest" name="testApp"/>
 </testsuite>
